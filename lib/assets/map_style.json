@@ -1,0 +1,57 @@
+[
+  {
+    "tags": {
+      "all": ["road"]
+    },
+    "elements": "geometry",
+    "stylers": [
+      {
+        "color": "#ffffff"
+      }
+    ]
+  },
+  {
+    "tags": {
+      "all": ["water"]
+    },
+    "elements": "geometry",
+    "stylers": [
+      {
+        "color": "#9cd6f4"
+      }
+    ]
+  },
+  {
+    "tags": {
+      "all": ["landscape"]
+    },
+    "elements": "geometry",
+    "stylers": [
+      {
+        "color": "#edeeef"
+      }
+    ]
+  },
+  {
+    "tags": {
+      "all": ["building"]
+    },
+    "elements": "geometry",
+    "stylers": [
+      {
+        "color": "#e0e1e4"
+      }
+    ]
+  },
+  {
+    "tags": {
+      "all": ["poi"]
+    },
+    "elements": "label.text.fill",
+    "stylers": [
+      {
+        "color": "#808080"
+      }
+    ]
+  }
+]
